@@ -1,0 +1,25 @@
+Feb 11
+
+Eventing and Analytics review
+acloudguru learning lectures
+Feb 10
+
+Plan to continue looking at the hibernation tickets and add more description and labels.
+Feb 9
+
+reviewed go code for nidhi and cyrus for pillowfight
+reviewed code for hibernation
+Added more gherkin and zephyr tickets for job stories in the "Improve scaling S2"
+Spoke to Shaun and aded a new label "AUTOVALIDATIONOFF" to discourage automatic generation of validation tickets.
+Feb 8
+
+Completed testing the automated validation tickets generation created by Shaun N.
+Reviewed the Go code for nighi for pillow fight and adding a list of time zones.
+Completed reading the "Writing Great Specifications" by Kamil Nicieja
+Working on writing Gherkin for test tickets for "Improving Scaling S2"
+Understanding the GCP fundamentals for Hibernation and Scaling.
+feb 7
+
+Completing the zephyr tickets from last week with the gherkin information
+Finishing reading "Writing Great Specifications"
+Working on reviewing some of the Go code written in different projects
