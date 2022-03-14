@@ -1,1 +1,26 @@
 
+March 11
+
+Working on cypress course in udemy.
+Looked AT verifying the cluster creation - deployment failures in different regions.
+March 10
+
+Verified AV 29799 - Verified on us-west-2, us-central-1 regions for creation of a cluster.
+Completed verifying test cases for AV-26862 and closed that. - Hibernation and Scaling
+in process verification of AV-27007.
+Cypress installation of components for automation code.
+March 9
+
+Installing Cypress on the work computer to start writing automation code for testing the UI.
+In progress for testing AV-26987
+Completing the testing for Hibernation and Scaling.
+March 8
+
+Completed verifying AV-26862 to complete the display of cluster state on the screen for various cluster deployment options.
+Completing the cp-cli README.md changes.
+Watched the video on cp-cli.
+In progress for testing AV-26987
+March 7
+
+Completing the course on cypress training for automated UI testing.
+Reviewed the book on "Rapid Product development using n8n"
