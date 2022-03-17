@@ -1,5 +1,19 @@
 March 18
+
 March 17
+
+Participated in the Automated UI testing meeting in the morning and the "Maintenance" meeting in the afternoon
+Working with Nidhi Kumar for automating the AMI releases. https://couchbasecloud.atlassian.net/browse/AV-29799
+Working with Vinatha Babyprakash for the bug which displays the number of nodes :https://couchbasecloud.atlassian.net/browse/AV-29855
+Completed the validation of https://couchbasecloud.atlassian.net/browse/AV-27007
 March 16
+
+Completed the confluence page for the Automated UI testing :https://couchbasecloud.atlassian.net/wiki/spaces/PA/pages/1738440749/Meetings+with+Key+links+Recordings+Jan+18+-+March+22
 March 15
-MArch 14
+
+Completed reviewing the AV-29798 for changes in the AMI release image 1.0.5
+March 14
+
+Reviewing code for cp-cli G2 changes
+reviewing changes for AV29379 adding a cluster state change in the UI
+completing the cypress web automation course.
