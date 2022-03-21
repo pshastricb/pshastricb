@@ -1,1 +1,6 @@
 
+March 21
+- Completed the review of Nishi Kumar's work on AMI testing toby Nidhi has helped set up a confluence page with the list of steps needed to verify the AMI image here: https://couchbasecloud.atlassian.net/wiki/spaces/RUN/pages/1740898366/AMI+release+validation Please let the SDeT team know when we can meet.
+
+- In process to automate the AMI testing work that needs to be done.
+- Continue the understanding of GCP clusters so that we can proceed with the G2 clusters work.
