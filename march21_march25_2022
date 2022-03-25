@@ -2,7 +2,16 @@
 
 March 25
 
+Worked with James Toole to find out how to integrate gherkin to cypress testing framework.
+added more steps for starting for gherkin.
 March 24
+
+Filed a ticket for https://couchbasecloud.atlassian.net/browse/AV-30689
+Attended GCP self service trial testing calls and notes the validation that needs to be done here.
+Checked the tickets that are assigned to me and closed the open validation tickets.
+The npm login problem was resolved with the help of Alex M.
+Having a code pairing session with James on the creation of cypress automation tests from gherkin.
+
 
 March 23
 
