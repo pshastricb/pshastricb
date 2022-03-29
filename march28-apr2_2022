@@ -4,11 +4,15 @@ March 31
 
 March 30
 
+
 March 29
+- Set up cypress susccessfully.
+- Completed the first test writing for cypress
+- Working on testing GCP Self Service Trials.
 
 March 28
-Started the validation for AV-26987 - Handle cluster modification failures.
-Continued on cypress testing for the UI automation
-Documented the steps for getting started on cypress UI automated testing.
+- Started the validation for AV-26987 - Handle cluster modification failures.
+-Continued on cypress testing for the UI automation
+-Documented the steps for getting started on cypress UI automated testing.
 reviewed the bug fix for AV-29379
-- 
+ 
