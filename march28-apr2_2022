@@ -3,7 +3,9 @@ April 1
 March 31
 
 March 30
-
+- Completed verifying AV-26987 ) cluster modification failures in DEV and STAGE
+- Starting verification of GCP clusters in SANDBOX
+- Completed the setup of cypress tesitng environment and the steps for setting up the cypress.
 
 March 29
 - Set up cypress susccessfully.
