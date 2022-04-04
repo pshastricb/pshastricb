@@ -5,6 +5,7 @@ April 1
 March 31
 - Verifying the handle cluster modification failures AV-26987 on PROD
 - Updated the "steps to verify "document on confluence
+- Met with Mihir from Raju's team and obtained the document for the transfer of data in Petabytes from the test files. 
 
 March 30
 - Completed verifying AV-26987 ) cluster modification failures in DEV and STAGE
