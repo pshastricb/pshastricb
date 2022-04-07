@@ -1,6 +1,11 @@
 April 8
 
 April 7
+- Updated the "Steps to start cypress testing" doc.
+- Added a new pull request to add import data spec and gherkin to the repo.
+- GCP test plan discussion with Girish and team.
+- Discussion with Sridevi and team on Mobile UI.
+- Knowledge transfer with Mihir's team on how to load documents into tet-bucket.
 
 April 6
 - Meeting with Couchbase server team members to come up with GCP test plan
@@ -13,7 +18,7 @@ April 5
 
 
 April 4
-- Completed reviewing the document sent by Mihir to add data for testing Full TExt Search and Query workbench
+- Completed reviewing the document sent by Mihir to add data for testing Full Text Search and Query workbench
 - Completed adding the steps for cypress testing
 - Verified GCP bugs
 - Added questions for maintenance
