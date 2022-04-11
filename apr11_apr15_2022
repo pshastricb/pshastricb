@@ -1,5 +1,13 @@
-April 18
-April 17
-April 16
 April 15
+
 April 14
+
+April 13
+
+April 12
+
+April 11
+- Updated the GCP GA test document with the new gherkin information
+- Looked at the existing gherkin and modified or changed it to not include the inVPC flag in it.
+- Completed the knowledge transfer for Pavithra and Girish.
+- Working with Girish on the GCP test plan.
