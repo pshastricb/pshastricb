@@ -8,6 +8,7 @@ Generated the ticket query in JQL: https://couchbasecloud.atlassian.net/issues/?
 - reviewed Go code in github
 - Finishing up test cases for GCP execution.
 - created a demo video of the method to generate validation tickets from the gherkin
+- Working on cypress automation tests for "Import" as per Go Fake API.
 
 April 19
 - Completing the GCP test cases assigned to me.
