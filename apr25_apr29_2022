@@ -2,8 +2,12 @@
 April 29
 
 April 28
+- Added new epic for Analytics testing
 
 April 27
+- Completed the tagging of DP GCP for all the validation tickets and DP GCP GA for all the new validation tickets which are going to be tested for GA.
+- Following the process of Creation of epic for testing-> gherkin job story and then creation of validation tickets.
+- Completed the figma chart completion for all the wpic stories.
 
 April 26
 - Completed the GCP bug bash
