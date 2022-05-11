@@ -3,6 +3,9 @@ May 13
 May 12
 
 May 11
+- Completed running the CH@ chaos scenarios on GCP cluster
+- Looking at closing some of the duplicate tickets that are created 
+
 
 May 10
 - Started cypress test automation for import to push it through.
