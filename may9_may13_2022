@@ -1,6 +1,12 @@
 May 13
+- Continue on the validation of Support and Activity explorer.
+
 
 May 12
+
+- Completed the running of CH2 scenario for cp-cli
+- Completed the closing of duplicate tickets.
+- Completed the validation of eventing
 
 May 11
 - Completed running the CH@ chaos scenarios on GCP cluster
