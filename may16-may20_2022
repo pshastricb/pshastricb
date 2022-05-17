@@ -4,7 +4,14 @@ May 19
 
 May 18
 
+
 May 17
+- Completed Project creation, owners and role testing on clusters in DEV.
+- Todo: SAnity testing on STAGE and PROD after the code is putback.
+- Ran cp-cli scenarios CH!, CH2, CH3, CH4 for GCP testing.
+- GCP dashboard cleanup, removal of duplicate test tickets.
+
+
 
 May 16
 - Completed the regression testing for all the components other than Data import and Backup and restore.
