@@ -10,6 +10,7 @@ May 17
 - Todo: SAnity testing on STAGE and PROD after the code is putback.
 - Ran cp-cli scenarios CH!, CH2, CH3, CH4 for GCP testing.
 - GCP dashboard cleanup, removal of duplicate test tickets.
+- Import and Backup and restore testing on GCP DEV.
 
 
 
