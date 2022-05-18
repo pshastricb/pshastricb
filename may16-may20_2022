@@ -3,7 +3,9 @@ May 20
 May 19
 
 May 18
-
+- reviewed new cp-cli scenarios tobe putback to main
+- Started testing import on STAGE for GCP.
+- Plan to complete Import testing today.
 
 May 17
 - Completed Project creation, owners and role testing on clusters in DEV.
