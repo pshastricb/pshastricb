@@ -1,5 +1,11 @@
 May 20
-
+ - Started Import and filed the bugs. 
+ - Waiting for STAGe to have the import changes
+ - Back up and restore should be avaialb eon Monday.
+ - Closed the cluster tickets and the components related to Hibernation and Scaling.
+ - RAn cp-cli scenarios ch2, ch5, ch6
+ Setup docker desktop
+ 
 May 19
 - Finish testing for billing for GCP
 - TEst Import
