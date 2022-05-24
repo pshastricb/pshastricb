@@ -5,6 +5,9 @@ May 26
 May 25
 
 May 24
+- Closed and validated bugs for Import on STAGE using CGCP paid.
+- started testing Import and Backup and restore on sandbox.
+- RAn CH$ cp-cli scenario to check the performance of scale in and scale out on GCP clusters.
 
 May 23
 - Completing the import and Backup and restore testing on the sandbox.
