@@ -5,6 +5,8 @@ June 2
 June 1
 
 May 31
-0- Started by reviewing the code changes done by india team for UI automation.
+- Started by reviewing the code changes done by india team for UI automation.
 The focus is to shift to automation of UI completely before the next project.
 - Validating some of the fixes for the bugs raised for GCP testing.
+- Starting with the "Import" for automation changes to the UI
+- Completed closing the bugs raised for GCP self service and GCP GA.
