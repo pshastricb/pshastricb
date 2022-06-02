@@ -2,7 +2,13 @@ June 3
 
 June 2
 
+
 June 1
+- Completed the validation of bug for import AV-34919
+- Completed the assignement of correct components for the cypress automation UI tests
+- Updated the confluence page with the details on number of tests picked up for automation.
+- Looked at the UI autpomation code for import
+
 
 May 31
 - Started by reviewing the code changes done by india team for UI automation.
