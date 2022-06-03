@@ -1,4 +1,7 @@
 June 3
+- Completing cypress automation for the import component.
+- Re-factoring code to use fake APIs.
+- Completing the validation of backup and restore and the import on PROD sanity testing.
 
 June 2
 - Completed validation of AV-34919 and filed bug for import not completed.
