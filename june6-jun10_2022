@@ -3,6 +3,7 @@ June 10
 June 9
 - Added new pul requests to change ch6 in main
 - Added API keys automation to the pull request.
+- Added code for sorting the API keys and display error message when the keys are not present.
 
 
 June 8
