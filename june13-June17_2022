@@ -1,5 +1,13 @@
 June 17
+
 June 16
+
 June 15
+
 June 14
+- 
+
 June 13
+- Starting on automation of import with the new fake APIs, have to add in the code changes and test.
+- Completed automation of API sort and no keys exist
+- Ran cp-cli scenarios for CH1-, CH2, CH3, CH4 and CH10
