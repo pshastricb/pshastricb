@@ -1,5 +1,13 @@
 Jul 15
+
 Jul 14
+
 Jul 13
+
 Jul 12
+
 Jul 11
+- Started by looking at cp-cli changes and the discussion on what needs to be done for GCP testing on PROD environment.
+- Looked at AWs cloud professional details and the topics to be covered there.
+- Writing gherkins for the Elixir UI with the new changes
+- Working with the India team to understand the gherkin changes that they are doing at their end.
