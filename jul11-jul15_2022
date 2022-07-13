@@ -5,6 +5,9 @@ Jul 14
 Jul 13
 - Working on adding new gherkins for Analytics, Data Workbench
 - Completing the Elixir spreadsheet for the new testcases.
+- Ran CP-CLI scenarios CH1, CH2, CH3, CH4, CH5, CH6, CH7, CH8, CH9, CH10 and CH11.
+- Adding the results to cp-cli scenarios in the spreadsheet
+- recruiting members for the couch_toastmasters club
 
 Jul 12
 - Completing the gherkin writing and verification for Database and AppServices.
