@@ -1,6 +1,9 @@
 Jul 15
 
 Jul 14
+- Working on verifying the screens in FIGMA match the gherkin creation
+- Working on adding gherkins for Analytics
+- Working on adding gherkins for Tenant Management and Billing and Metering
 
 Jul 13
 - Working on adding new gherkins for Analytics, Data Workbench
