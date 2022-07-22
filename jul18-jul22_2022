@@ -1,4 +1,7 @@
 Jul 22
+- Completed writing gherkins for Data API and adding more gherkin for buckets, scopes and collections
+- Reviewing the gherkin with DEV
+
 
 Jul 21
 - Working on the e2e testing for Elixir!
