@@ -5,6 +5,8 @@ Jul 28
 Jul 27
 
 Jul 26
+- Mapping the existing test gherkins to the fix version gherkins
+- Simplifying the gherkins for Monitoring
 
 Jul 25
 - Working on simplfying the gherkins for the addition to Elixir UI testing
