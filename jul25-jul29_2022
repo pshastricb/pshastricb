@@ -3,6 +3,8 @@ Jul 29
 Jul 28
 
 Jul 27
+- Verified gherkins for APIkeys, Replications, Eventing, Analytics and Data Workbench (Query)
+- Added the respective test tickets to the validation tickets created by Aaron.
 
 Jul 26
 - Mapping the existing test gherkins to the fix version gherkins
