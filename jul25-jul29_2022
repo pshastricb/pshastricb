@@ -1,4 +1,6 @@
 Jul 29
+- Added new gherkins to verify for Elixir UI
+- Added currently found problems for Elixir UI
 
 Jul 28
 - Working on testing the jul 29 dev fixes.
