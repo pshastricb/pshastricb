@@ -3,6 +3,8 @@ Aug 5
 Aug 4
 
 Aug 3
+- Working on defining further test cases. 
+- Working on test plan for e2e testing (current state)
 
 Aug 2
 - Looking at cypress test framework to find out how we can make changes for the new UI.
