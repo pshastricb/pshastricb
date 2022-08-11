@@ -1,6 +1,8 @@
 Aug 12
 
 Aug 11
+- Coming up with changes for cp-cli for serverless.
+- Mapping the existing gherkins to the releases and closing them
 
 Aug 10
 - Looking at e2e tests cp-cli and making changes to cp-cli code
