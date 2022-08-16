@@ -6,6 +6,9 @@ Aug 18
 Aug 17
 
 Aug 16
+- Looking at audit testing for collection of logs from control plane to data plane
+- Looking at the list of tests to be executed this week
+- Control Plane tests are being finalized and cp-cli scenarios will be run soon for Elixir
 
 Aug 15
 - Completing the mapping of gherkins to control plane deliverables for this week
