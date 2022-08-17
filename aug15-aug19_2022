@@ -4,6 +4,8 @@ Aug 19
 Aug 18
 
 Aug 17
+- Mapping e2e tests to control Plane table
+- re-testing any of the failed tests
 
 Aug 16
 - Looking at audit testing for collection of logs from control plane to data plane
