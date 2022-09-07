@@ -3,6 +3,11 @@ Sep 9
 Sep 8
 
 Sep 7
+- Working on completing the Audit log testing
+- Working completing the validation tickets so that they can be counted in the cycle for Sep 9
+- Updated the Elixir UI/UX status page
+- Working on Completing the Control Plane testing status
+- Couchbase Toastmasters club meeting planning
 
 Sep 6
 - Attended the Daily surfaces meeting to get an idea on the current work on UI/UX. A lot has been completed, there is more to go in the sprint.
@@ -10,4 +15,4 @@ The testing is catching up on the validation tickets.
 - Mapped the validation tickets to the release for Sep 23
 - Re-verifying the bugs that were filed last week to test.
 - Closing some of the bugs and completing validation.
-- 
+
