@@ -7,6 +7,7 @@ Sep 28
 Sep 27
 - Completing Audit AMI testing
 - Setting the SANDBOX for testing the serverless AWS, cp-cli scenarios
+- Mapping the P0s in UI/UX and the E2E testing to the Elixir HL milestone chart
 
 Sep 26
 - Looking at cp-cli scenarios for the serverless AWS.
