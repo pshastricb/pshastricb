@@ -3,6 +3,10 @@ Oct 7
 Oct 6
 
 Oct 5
+- recording a Katalon studio test script demo.
+- Working on POC with Katalon Studio to find out how we can automate 
+the regression testing for the Eventing,Analytics, Query Workbench and Import documents.
+- Katalon Studio has the pros - can be integrated with Jenkins pipelines. Integrated with JIRA.
 
 Oct 4
 - Mapping the number of cp-api, cp-ui tests to the number of tests in sanity.
