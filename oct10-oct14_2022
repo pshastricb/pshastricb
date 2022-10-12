@@ -6,6 +6,9 @@ Oct 12
 - setting up Cypress Studio on 10.6.0 and getting started from there
 - recording a test demo from cypress studio.
 - Created the "steps to get started on using Cypress Studio"
+- Created and updated the Sanity test plan for elixir roll out on Oct 30
+- Added the new tests.
+- Testing in progress for Import, documents, Query workbench
 
 
 Oct 11
