@@ -1,6 +1,9 @@
 Oct 14
 
 Oct 13
+- Created a demo for recrding tests on Katalon Studio and Cypress Studio.
+- The plan is to go ahead and use Cypress Studio, working thought the errors to get that fixed.
+- Doing sanity testing on the new UI in preparation for the release.
 
 Oct 12
 - setting up Cypress Studio on 10.6.0 and getting started from there
