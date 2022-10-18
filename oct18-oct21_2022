@@ -7,3 +7,5 @@ Oct 19
 Oct 18
 - Reviewed the code changes for Cypress Automation of AppEndPoint
 - Looking at the validation tickets and test failed tickets to make sure that all of them pass.
+- Looking at adding a new job to jenkins pipeline to test the cp-cpi, cp-ui, cp-cli changes to the pipeline.
+- Started the validation of "Monitoring" for Provisioned databases and serverless the "Monitoring" is tested as well.
