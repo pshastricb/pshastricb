@@ -3,7 +3,7 @@ Oct 21
 
 Oct 20
 - Added new job stories to complete the testing for Dev UI - Provisioned  -Monitoring, Query workbench, FTS, Eventing, Analytics
-- 
+- Added new job stories for Buckets, Documents, Scope and Collections
 
 Oct 19
 - Working on creating a Jenkins pipeline for the cp sanity tests 
