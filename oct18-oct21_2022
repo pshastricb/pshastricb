@@ -1,14 +1,19 @@
 Oct 21
 
+
 Oct 20
+- Added new job stories to complete the testing for Dev UI - Provisioned  -Monitoring, Query workbench, FTS, Eventing, Analytics
+- 
 
 Oct 19
 - Working on creating a Jenkins pipeline for the cp sanity tests 
+- Attended the CouchbaseDocJabbers meeting and gave a presentation on Diwali
 
 Oct 18
 - Reviewed the code changes for Cypress Automation of AppEndPoint
 - Looking at the validation tickets and test failed tickets to make sure that all of them pass.
 - Looking at adding a new job to jenkins pipeline to test the cp-cpi, cp-ui, cp-cli changes to the pipeline.
 - Started the validation of "Monitoring" for Provisioned databases and serverless the "Monitoring" is tested as well.
+
 Oct 17
 - On vacation
