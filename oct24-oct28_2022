@@ -2,6 +2,8 @@ Oct 28
 
 
 Oct 27
+- integrated the serverless_smoke_test.yaml file into the Elixir sanity test dir
+- Working on the validation of Elixir UI testing for Oct 31 release
 
 
 Oct 26
