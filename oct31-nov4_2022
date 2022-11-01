@@ -5,6 +5,8 @@ nov 3
 nov 2
 
 nov 1
+- Updated the Elixir UI/UX status page with the latest on bug status and open bugs and grouped them into P0, P1, P2 and >P3 bugs.
+- Continuing testing for Oct31_sanity testing
 
 oct 31
 - Starting the validation testing for the elixir UI that is going to be released.
