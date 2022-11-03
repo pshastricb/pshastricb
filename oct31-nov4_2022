@@ -1,6 +1,9 @@
 nov 4
 
 nov 3
+- Testing the areas that have a code fix on Novebmer 2.
+- Validating DATA API and Data management, registration
+- Completing the validation tickets.
 
 nov 2
 - Looking at the jenkins pipeline for CI/CD jobs for sanity serverless
