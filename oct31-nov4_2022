@@ -1,4 +1,7 @@
 nov 4
+- Looking at updates from the India team on the validation tickets that are completed.
+- Fixing the AV-47960 changes for smoke test prod failure.
+- Review of audit test plan for Nov 9 with Ali Hooman.
 
 nov 3
 - Testing the areas that have a code fix on Novebmer 2.
