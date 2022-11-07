@@ -11,4 +11,5 @@ Nov 7
 - Looking at cp-cli scenarios for elixir and provisioned testing
 - Looking at validation tickets for Provisioned.
 - Sent out the test plan for devEx UI sanity testing on November 30
+- Foxed the cp-cli-runner test parameters for Jenkins test run.
 
