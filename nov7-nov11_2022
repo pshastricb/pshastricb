@@ -4,6 +4,7 @@ Nov 11
 Nov 10
 - Created the PR for adding an environment variable for g2 clusters to be called in the cp-cli
 - COUCHBASE_AMI_IMAGE, COUCHBASE_SERVER_VERSION are the new environment variables that have been added to the cmd/cp-cli/actions/g2/cluster_deploy.go
+- Continue to work on the validation of tickets for the DevEx UI
 
 Nov 9
 - Completing the open areas in Provisioned.
