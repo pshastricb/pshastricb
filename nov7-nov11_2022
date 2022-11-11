@@ -1,5 +1,10 @@
 
 Nov 11
+- completed the PR putback for DATAPLANE_CB_IMAGE and COUCHBASE_SERVER_VERSION
+- Completed the validation of the tickets for the drop on Nov 9.
+- Conducted a bugbash on Nov 10 for DevEX UI changes.
+- Conducting another bugbsh on Nov 17
+
 
 Nov 10
 - Created the PR for adding an environment variable for g2 clusters to be called in the cp-cli
