@@ -10,4 +10,5 @@ Nov 15
 Nov 14
 - Working on validation tickets completion for Serverless and DevEx UI. AWs Private Links need to be verified.
 - Working on updating the DevEX UI status page
+- Working on stabilizing the Jenkins job on cp-cli-runner
 
