@@ -1,5 +1,7 @@
 nov 23
-
+- Validating the fixes that are integrated into the release.
+- Completing the regression testing for the Nov 23 drop
+- Validating the open tickets and closing the open tickets.
 
 nov 22
 - reviewed cp-cli changes for Sujay for the eventing functions
