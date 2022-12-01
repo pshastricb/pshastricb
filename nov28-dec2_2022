@@ -1,6 +1,10 @@
 Dec 2
+-
 
 Dec 1
+- Look at cp-cli scenarios that can be added for the serverless UI.
+- Validating the bugs that are integrated into the devEX UI.
+- Create an Azure test plan based on Azure milestones.
 
 Nov 30
 - Validating and closing somw of the integrated fixes for PROD
