@@ -6,6 +6,11 @@ Dec 8
 Dec 7
 
 Dec 6
+- Closed the serverless elixir tickets that were not reproducible.
+- Looked at all the tickets for serverless and made the list a lot smaller.
+- Changed some of the tickets to Job stories
+Now the total number of tickets are 48 
+- Looking at adding new cp-cli scenarios for serverless.
 
 Dec 5
 - In process validation of tickets for Maintenance and those filed on Nov 29PROD
