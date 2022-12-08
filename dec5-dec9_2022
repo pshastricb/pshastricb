@@ -2,6 +2,9 @@
 Dec 9
 
 Dec 8
+- Working on cp-cli scenarios for serverless and porting them from g2 to serverless for query
+- Will send out a PR soon
+- Complete validation of hotfixes.
 
 Dec 7
 - testing Elixir bugs and changing them to Job story
