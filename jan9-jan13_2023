@@ -5,6 +5,9 @@ Jan 12
 Jan 11
 
 Jan 10
+- Cleared all the test Failed to TESt Passed and closed the validation tickets
+- Marked the integrarted bugs as validated and passed.
+- Looked at cp-cli jenkins pipeline and updated in the pipeline_eng doc
 
 Jan 9
 - Looking at the provisioned cluster pipeline and the changes required for running it on azure
