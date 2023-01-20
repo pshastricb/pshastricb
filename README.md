@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pshastricb
-My public key: 
-Please reach out to me using this key.
+
 
 - 👀 I’m interested in ...
    Learning new technological tools, languages. Speaking effectively.
