@@ -1,4 +1,7 @@
 Jan 20
+- tested Azure deployment on Production
+- Closed the bugs that are integrated into the main code base
+- Closed the validation tickets for the Azure deployment
 
 Jan 19
 - Completing the cp-cli runs for Azure
