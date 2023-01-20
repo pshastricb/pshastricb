@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pshastricb
-My public key: 40ADB8434A2D8482
+My public key: 
 Please reach out to me using this key.
 
 - 👀 I’m interested in ...
