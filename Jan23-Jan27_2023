@@ -5,6 +5,9 @@ Jan 26
 Jan 25
 
 Jan 24
+- Reviewed PRs for Nimiya
+- Updated the Azure sanity tests with more tests cases and statuses
+- Validated and closed all the validation tickets
 
 Jan 23
 - Started with validating the test tickets in Azure for PROD
